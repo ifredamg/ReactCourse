@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    /* background-color: #1d1d1d; */
+}
+
+button > svg {
+    margin-right: 5px;
+}
